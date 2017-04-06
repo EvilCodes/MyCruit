@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="app_preset_prof_preset_name">FilePubUtils Launch Configuration</entry>
+<entry key="app_preset_prof_preset_filter_s"/>
+<entry key="app_preset_prof_preset_filter_p">com.oucre.controller.busi.*,
+com.oucre.controller.common.*,
+com.oucre.controller.initializer.*,
+com.oucre.core.dao.*,
+com.oucre.core.io.*,
+com.oucre.core.jdbc.*,
+com.oucre.core.mode.Pager.*,
+com.oucre.core.mode.json.*,
+com.oucre.core.mode.logger.*,
+com.oucre.core.mode.module.*,
+com.oucre.core.mode.search.*,
+com.oucre.core.mode.tree.*,
+com.oucre.core.util.*,
+com.oucre.dao.*,
+com.oucre.filter.*,
+com.oucre.interceptor.*,
+com.oucre.pojo.*,
+com.oucre.service.*</entry>
+<entry key="app_preset_prof_preset_alloc_p">10</entry>
+<entry key="app_preset_"/>
+<entry key="app_preset_prof_preset_samplingRefreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_stacks_p">false</entry>
+<entry key="app_preset_prof_preset_roots_p">com.oucre.controller.busi.**
+com.oucre.controller.common.**
+com.oucre.controller.initializer.**
+com.oucre.core.dao.**
+com.oucre.core.io.**
+com.oucre.core.jdbc.**
+com.oucre.core.mode.Pager.**
+com.oucre.core.mode.json.**
+com.oucre.core.mode.logger.**
+com.oucre.core.mode.module.**
+com.oucre.core.mode.search.**
+com.oucre.core.mode.tree.**
+com.oucre.core.util.**
+com.oucre.dao.**
+com.oucre.filter.**
+com.oucre.interceptor.**
+com.oucre.pojo.**
+com.oucre.service.**
+</entry>
+<entry key="profiler.settings.instrument.empty.methods">false</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">false</entry>
+<entry key="app_preset_prof_preset_samplingRate_s">100</entry>
+<entry key="app_preset_prof_preset_filterMode_s">true</entry>
+<entry key="app_preset_prof_preset_selector"/>
+<entry key="app_preset_prof_preset_refreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_runnables_p">true</entry>
+<entry key="app_preset_prof_preset_filterMode_p">false</entry>
+<entry key="app_preset_prof_preset_memoryMode_p">true</entry>
+</properties>
